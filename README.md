@@ -1,6 +1,6 @@
 # Langchain-RPG
 
-基于Langchain架构的文档支持库
+基于Langchain架构的文档知识库
 
 ## 部署步骤
 
