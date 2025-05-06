@@ -1,6 +1,6 @@
 # Langchain-RPG
 
-基于Langchain架构的角色扮演写作
+基于Langchain架构的文档支持库
 
 ## 部署步骤
 
